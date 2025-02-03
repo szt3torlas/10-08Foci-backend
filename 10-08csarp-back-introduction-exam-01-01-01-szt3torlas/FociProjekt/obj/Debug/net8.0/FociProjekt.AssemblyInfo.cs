@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FociProjekt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45278131ab2db8386059d82c12db902b10474d94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2610c427d23964f1762c66e68b0306813b2c66a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("FociProjekt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FociProjekt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

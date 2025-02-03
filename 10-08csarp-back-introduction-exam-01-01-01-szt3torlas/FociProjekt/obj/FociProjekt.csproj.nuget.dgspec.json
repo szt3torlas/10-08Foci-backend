@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "J:\\24-25\\vizsgaremek docs\\C#\\10-08csarp-back-introduction-exam-01-01-01-szt3torlas\\FociProjekt\\FociProjekt.csproj": {}
+    "D:\\Programs\\Visual Studio Projects\\vizsgar\\reinstall\\10-08csarp-back-introduction-exam-01-01-01-szt3torlas\\FociProjekt\\FociProjekt.csproj": {}
   },
   "projects": {
-    "J:\\24-25\\vizsgaremek docs\\C#\\10-08csarp-back-introduction-exam-01-01-01-szt3torlas\\FociProjekt\\FociProjekt.csproj": {
+    "D:\\Programs\\Visual Studio Projects\\vizsgar\\reinstall\\10-08csarp-back-introduction-exam-01-01-01-szt3torlas\\FociProjekt\\FociProjekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\24-25\\vizsgaremek docs\\C#\\10-08csarp-back-introduction-exam-01-01-01-szt3torlas\\FociProjekt\\FociProjekt.csproj",
+        "projectUniqueName": "D:\\Programs\\Visual Studio Projects\\vizsgar\\reinstall\\10-08csarp-back-introduction-exam-01-01-01-szt3torlas\\FociProjekt\\FociProjekt.csproj",
         "projectName": "FociProjekt",
-        "projectPath": "J:\\24-25\\vizsgaremek docs\\C#\\10-08csarp-back-introduction-exam-01-01-01-szt3torlas\\FociProjekt\\FociProjekt.csproj",
-        "packagesPath": "C:\\Users\\szt3torlas\\.nuget\\packages\\",
-        "outputPath": "J:\\24-25\\vizsgaremek docs\\C#\\10-08csarp-back-introduction-exam-01-01-01-szt3torlas\\FociProjekt\\obj\\",
+        "projectPath": "D:\\Programs\\Visual Studio Projects\\vizsgar\\reinstall\\10-08csarp-back-introduction-exam-01-01-01-szt3torlas\\FociProjekt\\FociProjekt.csproj",
+        "packagesPath": "C:\\Users\\55bambucsa55\\.nuget\\packages\\",
+        "outputPath": "D:\\Programs\\Visual Studio Projects\\vizsgar\\reinstall\\10-08csarp-back-introduction-exam-01-01-01-szt3torlas\\FociProjekt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\szt3torlas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\55bambucsa55\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
